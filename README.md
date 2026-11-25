@@ -76,5 +76,5 @@ python graphiques.py
 
 
 
-KALADA Meryem - Étudiante en M2 Ingénierie Informatique (Big Data et Cloud Computing)
+KALADA Meryem - Étudiante en M2 Ingénierie Informatique en Big Data et Cloud Computing
 
